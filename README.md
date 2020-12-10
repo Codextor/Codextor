@@ -10,7 +10,7 @@ I'm a full stack developer from Bangalore (India), working on fintech applicatio
 - 🌱 I’m currently learning Software Architectures and Design Principles  
 - 👯 I’m looking to collaborate on projects using Swift programming language  
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" width="320"/>
 
 #### If you've landed on my profile, you were probably going through the themes I created for Notepad++ editor  
 
