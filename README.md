@@ -12,6 +12,7 @@ I'm a full stack developer from Bangalore (India), working on fintech applicatio
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" width="320"/>
 
+##
 #### If you've landed on my profile, you were probably going through the themes I created for Notepad++ editor  
 
 You can read more about them on my <a href="https://codextor.medium.com/" target="_blank">Medium</a> page  
