@@ -1,8 +1,8 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://codextor.medium.com/" target="_blank"><img height="30" src="https://www.flaticon.com/svg/static/icons/svg/725/725315.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="linkedin.com/in/heysandeep/" target="_blank"><img height="30" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/Codextor" target="_blank"><img height="30" src="https://www.flaticon.com/svg/static/icons/svg/725/725311.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://codextor.medium.com/" target="_blank"><img height="30" src="./resources/medium.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="linkedin.com/in/heysandeep/" target="_blank"><img height="30" src="./resources/linkedin.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/Codextor" target="_blank"><img height="30" src="./resources/twitter.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 I'm Sandeep, a full stack developer from Bangalore (India), working on fintech applications  
 
