@@ -4,10 +4,10 @@
 <a href="linkedin.com/in/heysandeep/" target="_blank"><img height="30" src="./resources/linkedin.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/Codextor" target="_blank"><img height="30" src="./resources/twitter.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-I'm Sandeep, a full stack developer from Bangalore (India), working on fintech applications  
+I'm Sandeep, a backend developer from Bangalore (India), working in the fintech space for the past 6 years  
 
-- 🔭 I’m currently working on Spring Boot based micro services using Kotlin  
-- 🌱 I’m currently learning Software Architectures and Design Principles    
+- 🔭 I work on Spring Boot based micro services using Kotlin everyday  
+- 🌱 When not writing code, I can caught reading up on System Design Principles    
 
 ##
 
